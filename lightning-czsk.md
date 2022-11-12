@@ -20,7 +20,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [HifiAudio.sk](https://www.hifiaudio.sk/) - Pódiová technika, Konferenčné systémy, Ozvučenie barov, kancelárií, štadiónov, fitness centier, ...
  - [Hontiansky Dvor](https://www.hontianskydvor.sk/) - Domáce produkty - ovocie, zelenina, víno, včelie produkty
  - [Alza.sk](https://alza.sk), [Alza.cz](https://alza.cz) - Veľký e-shop so všetkým možným
- - [Confirmo.net](https://confirmo.net/blog/bitcoin-lightning-payments/) - platobná brána, ktorú používajú mnohé české a slovenské e-shopy (napríklad Alza). Nie všetci klienti majú zapnutú možnosť platiť Lightningom.
+ - [Confirmo.net](https://confirmo.net/blog/bitcoin-lightning-payments/) - platobná brána, ktorú používajú mnohé české a slovenské e-shopy (napríklad Alza, Pilulka, muziker). Nie všetci klienti majú zapnutú možnosť platiť Lightningom.
  - [Novator.sk](https://www.novator.sk/) - obchod so záhradnou, lesnou, poľnohospodárskou a čistiacou technikou renomovaných značiek (STIHL, HUSQVARNA, MTD, DOLMAR, STIGA, AL-KO, HONDA, ...)
  
 ## Physical
@@ -84,7 +84,7 @@ These are the nodes of merchants, not random routing nodes. You need to perform 
  - `033daa2ac144528a56255e884b91f6d3cc77587b9b832d02e05d5313bda5e71aea@crmyc4f3smjyu5dl6qtep327yciyt4otc6akhko4qwwlayypf756piad.onion:9735` - Bordel Hackerspace
  - `032be0dd6f553c93ebb1b18520dfcc83d2b24d2c225b613434a59730762362051b@fmoyb3neophnklvkvl7u7jhl66qtlofl5qwqsocjr4vezjyf4swakxad.onion:9735` - Bitcoinovej Kanál
  - `021d925f1fae7e7756149be421079141af62d77b1f8626b29ab60f15b14645635a@hmgnavz6eccfnug5tpjxsgl3wlm5dimbe547mjv6utdy6xtcobovxmad.onion:9735` - BOMBA Energy
- 
+ - `02ff30e83896d453cfc89ff4dd06d23d793b7246f154c210324adc1d42c849ce74@34.254.1.242:9735` - CONFIRMO.net public node
 ## How to contribute
 
 If you have a physical or online store in Czech Republic or Slovakia, [edit this file and create a Pull request](https://github.com/ParalelnaPolis/ParalelnaPolis.github.io/blob/master/lightning-czsk.md). Please do not submit changes by e-mail, if you don't know how to create a pull request, ask your IT guy.
